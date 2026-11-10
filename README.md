@@ -59,5 +59,5 @@ Folder name and preview page size can be changed in `CONFIG` in [suiteql-run-and
 
 ---
 
-**Author:** Eric Pinel  
+**Author:** [Eric Pinel](https://www.linkedin.com/in/eric-pinel-5a9820248/)  
 **License:** MIT - Copyright (c) 2026 Eric Pinel.

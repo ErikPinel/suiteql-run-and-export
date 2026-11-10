@@ -1065,6 +1065,11 @@ ORDER BY id</textarea>
             Run a query to display results.
         </div>
     </div>
+
+    <footer class="muted" style="margin-top:12px;text-align:center;font-size:16px;">
+        Built by <a href="https://www.linkedin.com/in/eric-pinel-5a9820248/"
+            target="_blank" rel="noopener noreferrer">Eric Pinel</a>
+    </footer>
 </div>
 
 <script>
